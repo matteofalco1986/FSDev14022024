@@ -1,0 +1,27 @@
+﻿body {
+}
+
+tr {
+    margin: 10px;
+}
+th, td {
+    padding: 10px;
+}
+
+form {
+    display: flex;
+    margin-left: 35vw;
+}
+.main-container{
+    max-width: 500px;
+}
+
+.InsertData {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 20px;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
